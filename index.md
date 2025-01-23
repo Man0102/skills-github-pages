@@ -1,4 +1,4 @@
 ---
-title: Welcome to my first GitHub pages blog
+Tomas' Blog: Welcome to my first GitHub pages blog
 ---
 
